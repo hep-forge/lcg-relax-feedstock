@@ -13,7 +13,12 @@ ROOT dictionaries for CLHEP, HepMC, ROOT Math and STL containers
 
 ## Architectures
 
-State per architecture: see the platforms badge above or [anaconda.org/hep-forge/lcg-relax](https://anaconda.org/hep-forge/lcg-relax).
+| Architecture | Latest published |
+|--------------|------------------|
+| linux-amd64 (`linux-64`) | ✅ `6.1.2` |
+| linux-arm64 (`linux-aarch64`) | ✅ `6.1.2` |
+
+_As of the last feedstock render; the badges above are live._
 
 
 ## Install
